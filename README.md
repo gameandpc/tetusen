@@ -13,7 +13,7 @@ tetusen addonpack
 
 前提条件：マイクラ統合版のバージョン　1.21.50以降
 
-鉄千の基本ルール：ぼんじゅうる（https://youtube.com/@bonj55)さんのショート動画をご覧ください。
+鉄千の基本ルール：ぼんじゅうる（https://youtube.com/@bonj55/)さんのショート動画（https://youtube.com/shorts/RgEGuGBnfYA?si=REF8YzatRylWvRGu/）をご覧ください。
 
 
 
