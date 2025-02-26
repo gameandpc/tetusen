@@ -1,3 +1,6 @@
+最新の説明はクラフターズコロニーで確認してください→https://minecraft-mcworld.com/105610/
+
+
 # tetusen
 tetusen addonpack
 
